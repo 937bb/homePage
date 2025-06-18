@@ -8,7 +8,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host --mode example",
-    "build": "vite build",
+    "build": "vite build --mode example",
     "preview": "vite preview",
     "format": "prettier --write src/",
     "lint": "eslint . --ext .js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts,.vue --fix"
