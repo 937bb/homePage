@@ -3,5 +3,10 @@
     "icon": "Blog",
     "name": "博客",
     "link": "https://blog.937b.cn/"
+  },
+    {
+    "icon": "LaptopCode",
+    "name": "共享API",
+    "link": "https://webapi.937b.cn/"
   }
 ]
