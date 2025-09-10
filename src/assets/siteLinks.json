@@ -4,9 +4,14 @@
     "name": "博客",
     "link": "https://blog.937b.cn/"
   },
-    {
+  {
     "icon": "LaptopCode",
     "name": "共享API",
     "link": "https://webapi.937b.cn/"
+  },
+  {
+    "icon": "Database",
+    "name": "服务器监控",
+    "link": "https://tz.937b.cn/"
   }
 ]
